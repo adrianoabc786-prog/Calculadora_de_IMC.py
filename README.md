@@ -16,7 +16,7 @@ O cálculo é realizado utilizando a fórmula padrão:
 IMC = peso / altura ** 2
 
 # Exemplo de classsificação  
-> 18.5 = abaixo do peso
-18.5 até 24.9 = peso normal
-25.0 até 29.9 = sobrepeso
-<= 30.0 = obesilidade
+| > 18.5 = abaixo do peso
+| 18.5 até 24.9 = peso normal
+| 25.0 até 29.9 = sobrepeso
+| <= 30.0 = obesilidade
