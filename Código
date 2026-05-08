@@ -30,7 +30,7 @@ def executar_calculadora() -> None:
         classificacao = obter_classificacao(resultado)
 
         # Exibição
-        print(f'\nSeu IMC é {resultado:.1f}')
+        print(f'/nSeu IMC é {resultado:.1f}')
         print(f'Classificação: {classificacao}')
 
     except ValueError:
